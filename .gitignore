@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+out/
+out_general/
+*.html
+!references/*.html
+node_modules/
+.DS_Store

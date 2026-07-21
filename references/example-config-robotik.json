@@ -1,0 +1,34 @@
+{
+  "style": "B",
+  "plain_headings": false,
+  "slug": "robotik-kodlama",
+  "title": "Robotik Kodlama Nedir?",
+  "tldr": [
+    "Robotik kodlama, yazılım komutlarını fiziksel bir cihazın davranışına dönüştüren disiplindir.",
+    "Yazılım, donanım ve algoritma olmak üzere üç katmanın kesişiminde çalışır.",
+    "Scratch gibi blok tabanlı araçlardan Python, C++ ve ROS'a kadar geniş bir program yelpazesi sunar.",
+    "Sağlıktan tarıma, lojistikten savunmaya kadar pek çok sektörde günlük hayatın parçası."
+  ],
+  "infocards": [
+    ["Temel Yapı", "3 Katman", "Yazılım · Donanım · Algoritma"],
+    ["Müfredat", "70+ Ülke", "İlkokulda kodlama eğitimi"],
+    ["İlk Adım", "4-6 Yaş", "Ekransız (unplugged) etkinlik"],
+    ["İleri Düzey", "Python & C++", "ROS ile profesyonel robotik"]
+  ],
+  "infocards_after": -1,
+  "list_groups": [[4, 6], [11, 14], [22, 26], [38, 41]],
+  "inserts": [
+    {"after": 30, "type": "editor_note",
+     "text": "Program seçerken kullanıcının yaşını ve mevcut seviyesini önceliklendirin. Blok tabanlı bir araçla başlamak, sözdizimi hatalarının yarattığı erken yılgınlığı önleyerek doğrudan algoritma mantığına odaklanmayı kolaylaştırıyor."},
+    {"after": 45, "type": "note", "title": "Önemli",
+     "text": "Başlama yaşı kadar süreklilik de belirleyici. Haftada bir katılıp aylarca ara verilen bir eğitim, kazanılan becerinin kalıcılığını düşürüyor; düzenli pratik, blok tabanlı araçlardan metin tabanlı dillere geçişin asıl koşulu."}
+  ],
+  "faq": [
+    ["Robotik kodlama ne işe yarar?", "Sensörden gelen veriyi önceden tanımlanmış bir algoritmaya göre işleyip mekanik ya da elektrik bir çıktıya dönüştürür. Robot süpürgelerin oda haritalaması, akıllı termostatların öğrenen davranışı, 3D yazıcıların milimetrik hareket kontrolü ve akıllı sulama sistemleri bu işleyişin gündelik örnekleridir."],
+    ["Robotik kodlama çocuğa ne kazandırır?", "Algoritmik düşünme, hata toleransı, yaratıcı ifade ve iş birliği başlıca kazanımlardır. Robot beklenen davranışı vermediğinde çocuk hatayı bir başarısızlık değil, bir adım olarak görmeyi öğrenir; grup projelerinde rol paylaşımı ve müzakere becerisi gelişir."],
+    ["Robotik kodlamaya kaç yaşında başlanmalı?", "4-6 yaş aralığında ekransız (unplugged) etkinliklerle başlanabilir; 7-9 yaşta Scratch gibi blok tabanlı araçlara, 13 yaş ve sonrasında Arduino ile hibrit blok-metin geçişine, 16 yaş ve üzerinde Python, C++ ve ROS gibi tam metin tabanlı dillere geçiş öneriliyor. OECD, 5-7 yaş aralığını algoritmik düşüncenin temel bileşenlerinin kavranabileceği gelişimsel pencere olarak tanımlıyor."],
+    ["Robotik kodlama nasıl bir ders?", "Yazılım, donanım ve algoritma katmanlarını bir arada ele alan uygulamalı bir derstir. Yazılan kodun motor hareketi ya da sensör tepkisi olarak fiziksel karşılık bulması, dersi geleneksel yazılım eğitiminden ayrıştırır. Türkiye'de Milli Eğitim Bakanlığı bilişim teknolojileri derslerine kademeli olarak robotik içerik ekliyor."],
+    ["En çok kullanılan robotik kodlama programları hangileri?", "Scratch, mBlock, Arduino IDE, LEGO SPIKE, Tinkercad Circuits, MicroPython ve profesyonel düzeyde ROS (Robot Operating System) öne çıkıyor. Yeni başlayanlar sürükle-bırak arayüzlü blok tabanlı araçlarla çalışırken ileri seviye kullanıcılar metin tabanlı dillere geçiş yapıyor."],
+    ["Robotik kodlama hangi mesleklerde kullanılır?", "Endüstriyel otomasyon, sağlık ve cerrahi robotik, tarım teknolojileri, lojistik ve depo yönetimi, savunma ve havacılık ile eğitim ve Ar-Ge alanlarında fiili karşılığını buluyor. Otomasyon yaygınlaştıkça alan, fiziksel sistemlerle çalışan birçok profesyonel için temel yetkinlik haline geliyor."]
+  ]
+}
