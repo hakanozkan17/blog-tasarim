@@ -4,7 +4,6 @@ Turkcell blog yazılarını (`turkcell.com.tr/blog`), **yazarın cümlelerine do
 
 Bir blog taslağı (`.docx`) verildiğinde şunları EKLER:
 - **Hızlı Özet (TLDR)** — H1'in hemen altında, en başta
-- **4'lü info-card stat grid** — mobilde 2×2, desktop'ta 4 yan yana
 - **Stilli karşılaştırma tabloları** — mobilde tablo-kartına döner (yatay kayma yok)
 - **Editör Notu / Önemli** kutuları
 - **DataForSEO destekli SEO/GEO FAQ akordeonu** (Turkcell övgüsü içermez)
